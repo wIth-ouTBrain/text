@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("hello world");
+    printf("featuretext");
+    printf("feature  success");
     return 0;
 }
